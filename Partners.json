@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6187ce173dbbd01d864ec8bf"
+  },
+  "partner_id": "1",
+  "Job": "student",
+  "School": [
+    {
+      "schoolName": "FPT",
+      "timeStudy": "2015 - 2020"
+    }
+  ],
+  "socialNetwork": {
+    "LinkedIN": "linkedin.com/.......",
+    "Github": "github.com/........",
+    "Facebook": "facebook.com/.............."
+  },
+  "account_id": "1",
+  "JobExp": [
+    {
+      "companyName": "FPT Software",
+      "years": "2017 - 2018",
+      "role": "fresher web development",
+      "tools": "PHP, Nodejs, Express, MongoDB"
+    },
+    {
+      "companyName": "Bennit Company",
+      "years": "2018 - Now",
+      "role": "junior web dev",
+      "tools": "PHP, Nodejs, Express, React, MongoDB"
+    }
+  ],
+  "Skills": [
+    {
+      "skillName": "PHP",
+      "score": "9.5",
+      "TaskDone": "15"
+    },
+    {
+      "skillName": "MySQL",
+      "score": "9.2",
+      "TaskDone": "9"
+    }
+  ],
+  "reputation": {
+    "totalRate": "8.7",
+    "totalTaskDone": "20",
+    "totalTaskFalse": "0",
+    "starsRate": {
+      "1_star": "0",
+      "2_star": "0",
+      "3_star": "0",
+      "4_star": "2",
+      "5_star": "18"
+    }
+  },
+  "Certification": [
+    {
+      "CerName": "About AI",
+      "CerSkills": "AL, ML, Deep Learning",
+      "CerDate": "29 - 10 - 2021",
+      "CerProvider": "MicroSoft"
+    }
+  ],
+  "createAt": "Date",
+  "Settings": {
+    "getEmail": true,
+    "getPhone": true
+  },
+  "Payment": [
+    {
+      "Type": "Visa",
+      "numberCard": "0432943423432"
+    }
+  ],
+  "Tasks": [
+    {
+      "task_id": "3",
+      "client_id": "1",
+      "title": "Create database for BI"
+    }
+  ],
+  "avatar": "path.............",
+  "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+}]

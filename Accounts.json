@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "61873e2bb482b31b92bfc9d7"
+  },
+  "id": "1",
+  "username": "hoanvk",
+  "password": "abc123",
+  "IsClient": true,
+  "IsPartner": true,
+  "Info": {
+    "firstName": "Hoan",
+    "lastName": "Vu",
+    "userName": "Hoan Vu",
+    "gender": "Male",
+    "birth": {
+      "$date": "1990-05-24T17:00:00Z"
+    },
+    "phone": "0346278862",
+    "region": "0001",
+    "zipcode": "1000",
+    "add": {
+      "Address": "Thanh xuan",
+      "state": "Ha Noi",
+      "city": "Ha Noi",
+      "country": "Vietnam"
+    }
+  },
+  "email": "hoanvk05@gmail.com",
+  "createAt": "Date"
+}]
