@@ -1,132 +1,1464 @@
-[{
-  "_id": {
-    "$oid": "61873efeb482b31b92bfc9da"
-  },
-  "client_id": "1",
-  "account_id": "1",
-  "CompanyInfo": {
-    "NameCompany": "Laborits",
-    "FoundationYear": 2021,
-    "Size": "5 - 10",
-    "Major": "Information Technology",
-    "About": "Company for students, for working......",
-    "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
-    "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
-  },
-  "Settings": {
-    "getEmail": true,
-    "getPhone": true
-  },
-  "Tasks": [
-    {
-      "Task_id": {
-        "$oid": "618771fd43dba926c0decc40"
-      },
-      "Title": "Create website for company",
-      "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
-      "LevelNeed": "Newbie",
-      "_comment": "Category of Task",
-      "Skills": [
-        "PHP",
-        "MySQL",
-        "NodeJS",
-        "Docker"
-      ],
-      "Price": {
-        "Min": "200",
-        "Max": "500"
-      },
-      "TimeCreate": {
-        "$date": "2021-11-06T17:14:25.350Z"
-      },
-      "Deadline": {
-        "$date": "2021-11-15T17:24:00Z"
-      },
-      "File": "path of file.............",
-      "Status": "Waiting",
-      "Partner": {
-        "Partner_id": "1",
-        "userName": "Khoi Do",
-        "Score": "9.6",
-        "ProjectDone": "96%",
-        "???": "????????????????"
-      },
-      "ListPartner": [
-        {
+[
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
           "Partner_id": "1",
           "userName": "Khoi Do",
           "Score": "9.6",
           "ProjectDone": "96%",
-          "???": "??????????????"
+          "???": "????????????????"
         },
-        {
-          "Partner_id": "2",
-          "userName": "Nhat Don",
-          "Score": "9.7",
-          "ProjectDone": "92%",
-          "???": "????????????"
-        }
-      ],
-      "Messenger": [
-        {
-          "mess_id": "1",
-          "client_id": "1",
-          "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
-        },
-        {
-          "mess_id": "2",
-          "partner_id": "1",
-          "mess": "OK"
-        },
-        {
-          "mess_id": "3",
-          "partner_id": "1",
-          "mess": "I can working more 1 time in a day. From 9h to 12hAM"
-        }
-      ]
-    },
-    {
-      "Task_id": {
-        "$oid": "6187ca383dbbd01d864ec8b8"
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
       },
-      "Title": "Design Logo for new company",
-      "Description": "- Brand logo need nice and hợp phong thủy......",
-      "Ranking": "??????",
-      "LevelNeed": "Mid",
-      "Skills": [
-        "PTS",
-        "AI",
-        "CSS"
-      ],
-      "Price": {
-        "Type": "Total",
-        "Price": "200",
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Software Development",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Cybersecurity",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
         "TimeCreate": {
-          "$date": "2021-11-06T17:15:30Z"
+          "$date": "2021-11-06T17:14:25.350Z"
         },
         "Deadline": {
-          "$date": "2021-11-16T17:24:00Z"
+          "$date": "2021-11-15T17:24:00Z"
         },
         "File": "path of file.............",
-        "Status": "Done",
+        "Status": "Waiting",
         "Partner": {
-          "Partner_id": "2",
-          "userName": "Nhat Don",
-          "Score": "9.9",
-          "ProjectDone": "92%",
-          "???": "????????"
-        }
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
       },
-      "Comment": "Good, very good",
-      "Rating": "5 star"
-    }
-  ],
-  "Payment": {
-    "Type": "Master Card",
-    "cardNumber": "093 043423 943283",
-    "expDate": "23-09-2022"
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "UI/UX",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
   },
-  "createAt": "Date",
-  "avatar": "path..............",
-  "vipLevel": "0"
-}]
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Sales & Marketing",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Cybersecurity",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },{
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Data Collecting and Researching",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Data Collecting and Researching",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Sales & Marketing",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Software Development",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Software Development",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Software Development",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Software Development",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Software Development",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  },
+  {
+    "_id": {
+      "$oid": "61873efeb482b31b92bfc9da"
+    },
+    "client_id": "1",
+    "account_id": "1",
+    "CompanyInfo": {
+      "NameCompany": "Laborits",
+      "FoundationYear": 2021,
+      "Size": "5 - 10",
+      "Major": "Information Technology",
+      "About": "Company for students, for working......",
+      "DesiredFreelancer": "Mong muốn tìm freelance như thế nào",
+      "Stage???": "Giai đoạn của công ty. Cần fix cứng + Other"
+    },
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Tasks": [
+      {
+        "Task_id": {
+          "$oid": "618771fd43dba926c0decc40"
+        },
+        "Title": "Create website for company",
+        "Description": "- Using React for FrontEnd \n- Using Nodejs for BackEnd\n- MongoDB database\n- Website have landing page, about, home, help,....",
+        "LevelNeed": "Newbie",
+        "Category": "Software Development",
+        "Skills": [
+          "PHP",
+          "MySQL",
+          "NodeJS",
+          "Docker"
+        ],
+        "Price": {
+          "Min": "200",
+          "Max": "500"
+        },
+        "TimeCreate": {
+          "$date": "2021-11-06T17:14:25.350Z"
+        },
+        "Deadline": {
+          "$date": "2021-11-15T17:24:00Z"
+        },
+        "File": "path of file.............",
+        "Status": "Waiting",
+        "Partner": {
+          "Partner_id": "1",
+          "userName": "Khoi Do",
+          "Score": "9.6",
+          "ProjectDone": "96%",
+          "???": "????????????????"
+        },
+        "ListPartner": [
+          {
+            "Partner_id": "1",
+            "userName": "Khoi Do",
+            "Score": "9.6",
+            "ProjectDone": "96%",
+            "???": "??????????????"
+          },
+          {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.7",
+            "ProjectDone": "92%",
+            "???": "????????????"
+          }
+        ],
+        "Messenger": [
+          {
+            "mess_id": "1",
+            "client_id": "1",
+            "mess": "Hello Partner. I need you working from 10h to 12h AM, OK?"
+          },
+          {
+            "mess_id": "2",
+            "partner_id": "1",
+            "mess": "OK"
+          },
+          {
+            "mess_id": "3",
+            "partner_id": "1",
+            "mess": "I can working more 1 time in a day. From 9h to 12hAM"
+          }
+        ]
+      },
+      {
+        "Task_id": {
+          "$oid": "6187ca383dbbd01d864ec8b8"
+        },
+        "Title": "Design Logo for new company",
+        "Description": "- Brand logo need nice and hợp phong thủy......",
+        "Ranking": "??????",
+        "LevelNeed": "Mid",
+        "Category": "Software Development",
+        "Skills": [
+          "PTS",
+          "AI",
+          "CSS"
+        ],
+        "Price": {
+          "Type": "Total",
+          "Price": "200",
+          "TimeCreate": {
+            "$date": "2021-11-06T17:15:30Z"
+          },
+          "Deadline": {
+            "$date": "2021-11-16T17:24:00Z"
+          },
+          "File": "path of file.............",
+          "Status": "Done",
+          "Partner": {
+            "Partner_id": "2",
+            "userName": "Nhat Don",
+            "Score": "9.9",
+            "ProjectDone": "92%",
+            "???": "????????"
+          }
+        },
+        "Comment": "Good, very good",
+        "Rating": "5 star"
+      }
+    ],
+    "Payment": {
+      "Type": "Master Card",
+      "cardNumber": "093 043423 943283",
+      "expDate": "23-09-2022"
+    },
+    "createAt": "Date",
+    "avatar": "path..............",
+    "vipLevel": "0"
+  }
+]
