@@ -1,0 +1,26 @@
+{
+    "Count" : 1,
+    "Bio": "Tôi đẹp trai",
+    "Job" : "Software Dev",
+    "Sub_Cate" : [
+            {
+                "SubCateName": "Web Development",
+                "Skills": [
+                    "PHP",
+                    "Nodejs",
+                    "MySQL",
+                    "MongoDB",
+                    "ReactJs"
+                ]
+            },
+            {
+                "SubCateName": "Game Development",
+                "Skills": [
+                    "C#",
+                    "Unity",
+                    "Ruby"
+                ]
+            }
+        ],
+    "Category" : "Software Development"
+}

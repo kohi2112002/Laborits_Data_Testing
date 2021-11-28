@@ -1,0 +1,228 @@
+[
+    {
+        "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông",
+        "Category": "Software Development",
+        "Certification": [
+            {
+                "CerDate": "29 - 10 - 2021",
+                "CerName": "About AI",
+                "CerProvider": "MicroSoft",
+                "CerSkills": "AL, ML, Deep Learning"
+            }
+        ],
+        "Job": "student",
+        "JobExp": [
+            {
+                "companyName": "FPT Software",
+                "role": "fresher web development",
+                "tools": "PHP, Nodejs, Express, MongoDB",
+                "years": "2017 - 2018"
+            },
+            {
+                "companyName": "Bennit Company",
+                "role": "junior web dev",
+                "tools": "PHP, Nodejs, Express, React, MongoDB",
+                "years": "2018 - Now"
+            }
+        ],
+        "Payment": [
+            {
+                "Type": "Visa",
+                "numberCard": "0432943423432"
+            }
+        ],
+        "School": [
+            {
+                "schoolName": "FPT",
+                "timeStudy": "2015 - 2020"
+            }
+        ],
+        "Score": 90.0,
+        "Settings": {
+            "getEmail": true,
+            "getPhone": true
+        },
+        "Skills": [
+            {
+                "TaskDone": "15",
+                "score": "9.5",
+                "skillName": "PHP"
+            },
+            {
+                "TaskDone": "9",
+                "score": "9.2",
+                "skillName": "MySQL"
+            }
+        ],
+        "Skills_VT": [
+            [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.7071067812,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.7071067812,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        ],
+        "Tasks": [
+            {
+                "client_id": "1",
+                "task_id": "3",
+                "title": "Create database for BI"
+            }
+        ],
+        "_id": {
+            "$oid": "6bb86418e173dd01d7cec8bf"
+        },
+        "account_id": "1",
+        "avatar": "path.............",
+        "createAt": "Date",
+        "partner_id": "1",
+        "reputation": {
+            "starsRate": {
+                "1_star": "0",
+                "2_star": "0",
+                "3_star": "0",
+                "4_star": "2",
+                "5_star": "18"
+            },
+            "totalRate": "8.7",
+            "totalTaskDone": "20",
+            "totalTaskFalse": "0"
+        },
+        "socialNetwork": {
+            "Facebook": "facebook.com/..............",
+            "Github": "github.com/........",
+            "LinkedIN": "linkedin.com/......."
+        }
+    },
+    {
+        "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông",
+        "Category": "Software Development",
+        "Certification": [
+            {
+                "CerDate": "29 - 10 - 2021",
+                "CerName": "About AI",
+                "CerProvider": "MicroSoft",
+                "CerSkills": "AL, ML, Deep Learning"
+            }
+        ],
+        "Job": "student",
+        "JobExp": [
+            {
+                "companyName": "FPT Software",
+                "role": "fresher web development",
+                "tools": "PHP, Nodejs, Express, MongoDB",
+                "years": "2017 - 2018"
+            },
+            {
+                "companyName": "Bennit Company",
+                "role": "junior web dev",
+                "tools": "PHP, Nodejs, Express, React, MongoDB",
+                "years": "2018 - Now"
+            }
+        ],
+        "Payment": [
+            {
+                "Type": "Visa",
+                "numberCard": "0432943423432"
+            }
+        ],
+        "School": [
+            {
+                "schoolName": "FPT",
+                "timeStudy": "2015 - 2020"
+            }
+        ],
+        "Score": 90.0,
+        "Settings": {
+            "getEmail": true,
+            "getPhone": true
+        },
+        "Skills": [
+            {
+                "TaskDone": "15",
+                "score": "9.5",
+                "skillName": "PHP"
+            },
+            {
+                "TaskDone": "9",
+                "score": "9.2",
+                "skillName": "MySQL"
+            }
+        ],
+        "Skills_VT": [
+            [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.7071067812,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.7071067812,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        ],
+        "Tasks": [
+            {
+                "client_id": "1",
+                "task_id": "3",
+                "title": "Create database for BI"
+            }
+        ],
+        "_id": {
+            "$oid": "6bbd03d7cec81d86418e17bf"
+        },
+        "account_id": "1",
+        "avatar": "path.............",
+        "createAt": "Date",
+        "partner_id": "1",
+        "reputation": {
+            "starsRate": {
+                "1_star": "0",
+                "2_star": "0",
+                "3_star": "0",
+                "4_star": "2",
+                "5_star": "18"
+            },
+            "totalRate": "8.7",
+            "totalTaskDone": "20",
+            "totalTaskFalse": "0"
+        },
+        "socialNetwork": {
+            "Facebook": "facebook.com/..............",
+            "Github": "github.com/........",
+            "LinkedIN": "linkedin.com/......."
+        }
+    }
+]

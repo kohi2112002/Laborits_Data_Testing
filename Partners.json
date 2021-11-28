@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6187ce11d86473dbbd0c8bf"
     },
     "partner_id": "1",
     "Job": "student",
@@ -31,8 +31,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "Sales & Marketing": [
+    "Category" : "Sales & Marketing",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -43,8 +43,1555 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
     },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "6187ec8bfce173dbbd01d864"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "61864ec8bf7ce173dbbd01d8"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "dbbd01d86187ce17364ec8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "6187c8bce173dbbd01d864ef"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "4ec8bf6187ce173dbbd01d86"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "1d864ec6187ce173dbbd08bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "61bd01d864ec87ce173dbbf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "61d01d864ec87ce173dbb8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "618bd01d867ce173db4ec8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "618864ec7ce173dbbd01d8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "6d01d864ec8187ce173dbbbf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "bbd01d864ec86187ce173dbf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "61864ec87ce173dbbd01d8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "61d864ec887ce173dbbd01bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "61873dbbd01d87ce164ec8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "63dbbd01d864e187ce17c8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "6bd01d864e187ce173dbc8bf"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
+    "reputation": {
+      "totalRate": "8.7",
+      "totalTaskDone": "20",
+      "totalTaskFalse": "0",
+      "starsRate": {
+        "1_star": "0",
+        "2_star": "0",
+        "3_star": "0",
+        "4_star": "2",
+        "5_star": "18"
+      }
+    },
+    "Certification": [
+      {
+        "CerName": "About AI",
+        "CerSkills": "AL, ML, Deep Learning",
+        "CerDate": "29 - 10 - 2021",
+        "CerProvider": "MicroSoft"
+      }
+    ],
+    "createAt": "Date",
+    "Settings": {
+      "getEmail": true,
+      "getPhone": true
+    },
+    "Payment": [
+      {
+        "Type": "Visa",
+        "numberCard": "0432943423432"
+      }
+    ],
+    "Tasks": [
+      {
+        "task_id": "3",
+        "client_id": "1",
+        "title": "Create database for BI"
+      }
+    ],
+    "avatar": "path.............",
+    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+  },
+  {
+    "_id": {
+      "$oid": "618d03dbbb1d864ec87ce17f"
+    },
+    "partner_id": "1",
+    "Job": "student",
+    "School": [
+      {
+        "schoolName": "FPT",
+        "timeStudy": "2015 - 2020"
+      }
+    ],
+    "socialNetwork": {
+      "LinkedIN": "linkedin.com/.......",
+      "Github": "github.com/........",
+      "Facebook": "facebook.com/.............."
+    },
+    "account_id": "1",
+    "JobExp": [
+      {
+        "companyName": "FPT Software",
+        "years": "2017 - 2018",
+        "role": "fresher web development",
+        "tools": "PHP, Nodejs, Express, MongoDB"
+      },
+      {
+        "companyName": "Bennit Company",
+        "years": "2018 - Now",
+        "role": "junior web dev",
+        "tools": "PHP, Nodejs, Express, React, MongoDB"
+      }
+    ],
+    "Category" : "Sales & Marketing",
+    "Skills" : [
+        {
+          "skillName": "PHP",
+          "score": "9.5",
+          "TaskDone": "15"
+        },
+        {
+          "skillName": "MySQL",
+          "score": "9.2",
+          "TaskDone": "9"
+        }
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -118,8 +1665,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "UI/UX": [
+    "Category" : "Sales & Marketing",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -130,8 +1677,7 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
-    },
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -175,7 +1721,7 @@
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "61871d864ec8ce173dbbd0bf"
     },
     "partner_id": "1",
     "Job": "student",
@@ -205,8 +1751,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "Cybersecurity": [
+    "Category" : "UI-UX",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -217,8 +1763,7 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
-    },
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -262,7 +1807,7 @@
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6bbd01d86418e173d7cec8bf"
     },
     "partner_id": "1",
     "Job": "student",
@@ -292,8 +1837,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "Data Collecting and Researching": [
+    "Category" : "UI-UX",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -304,8 +1849,7 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
-    },
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -349,7 +1893,7 @@
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6bb86418e173dd01d7cec8bf"
     },
     "partner_id": "1",
     "Job": "student",
@@ -379,8 +1923,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "Software Development": [
+    "Category" : "Cybersecurity",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -391,8 +1935,7 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
-    },
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -436,7 +1979,7 @@
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6bbd03d7cec81d86418e17bf"
     },
     "partner_id": "1",
     "Job": "student",
@@ -466,8 +2009,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "Software Development": [
+    "Category" : "Cybersecurity",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -478,8 +2021,7 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
-    },
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -523,7 +2065,7 @@
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6b86418e173d7cecbd01d8bf"
     },
     "partner_id": "1",
     "Job": "student",
@@ -553,8 +2095,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "Cybersecurity": [
+    "Category" : "Data Collecting and Researching",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -565,8 +2107,7 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
-    },
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -610,7 +2151,7 @@
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6bb8e173d7cecd01d86418bf"
     },
     "partner_id": "1",
     "Job": "student",
@@ -640,8 +2181,8 @@
         "tools": "PHP, Nodejs, Express, React, MongoDB"
       }
     ],
-    "Skills": {
-      "Cybersecurity": [
+    "Category" : "Data Collecting and Researching",
+    "Skills" : [
         {
           "skillName": "PHP",
           "score": "9.5",
@@ -652,8 +2193,7 @@
           "score": "9.2",
           "TaskDone": "9"
         }
-      ]
-    },
+      ],
     "reputation": {
       "totalRate": "8.7",
       "totalTaskDone": "20",
@@ -697,1046 +2237,590 @@
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
-      }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
       },
       {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "Skills": {
-      "UI/UX": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "619a5018064e542d70a10156"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
-      },
-      {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
-      }
-    ],
-    "Skills": {
-      "UI/UX": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
-      }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
       },
       {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "Skills": {
-      "Sales & Marketing": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "619a5018064e542d70a10156"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
-      },
-      {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
-      }
-    ],
-    "Skills": {
-      "UI/UX": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
-      }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
       },
       {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "Skills": {
-      "Cybersecurity": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "619a5018064e542d70a10156"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
-      },
-      {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
-      }
-    ],
-    "Skills": {
-      "Data Collecting and Researching": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
-      }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
       },
       {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "Skills": {
-      "Software Development": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "619a5018064e542d70a10156"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
-      },
-      {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
-      }
-    ],
-    "Skills": {
-      "Software Development": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
-      }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
       },
       {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "Skills": {
-      "Cybersecurity": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "619a5018064e542d70a10156"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
-      },
-      {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
-      }
-    ],
-    "Skills": {
-      "Cybersecurity": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
-      }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
-    },
-    "account_id": "1",
-    "JobExp": [
-      {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
       },
       {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "Skills": {
-      "UI/UX": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
-    },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
-      }
-    },
-    "Certification": [
-      {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
-      }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
-    },
-    "Payment": [
-      {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
-      }
-    ],
-    "Tasks": [
-      {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
-      }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
   },
   {
     "_id": {
-      "$oid": "6187ce173dbbd01d864ec8bf"
+      "$oid": "619a5018064e542d70a10156"
     },
-    "partner_id": "1",
-    "Job": "student",
-    "School": [
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
       {
-        "schoolName": "FPT",
-        "timeStudy": "2015 - 2020"
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
-    ],
-    "socialNetwork": {
-      "LinkedIN": "linkedin.com/.......",
-      "Github": "github.com/........",
-      "Facebook": "facebook.com/.............."
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "account_id": "1",
-    "JobExp": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "companyName": "FPT Software",
-        "years": "2017 - 2018",
-        "role": "fresher web development",
-        "tools": "PHP, Nodejs, Express, MongoDB"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
       },
       {
-        "companyName": "Bennit Company",
-        "years": "2018 - Now",
-        "role": "junior web dev",
-        "tools": "PHP, Nodejs, Express, React, MongoDB"
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "Skills": {
-      "UI/UX": [
-        {
-          "skillName": "PHP",
-          "score": "9.5",
-          "TaskDone": "15"
-        },
-        {
-          "skillName": "MySQL",
-          "score": "9.2",
-          "TaskDone": "9"
-        }
-      ]
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
     },
-    "reputation": {
-      "totalRate": "8.7",
-      "totalTaskDone": "20",
-      "totalTaskFalse": "0",
-      "starsRate": {
-        "1_star": "0",
-        "2_star": "0",
-        "3_star": "0",
-        "4_star": "2",
-        "5_star": "18"
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
+      {
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
     },
-    "Certification": [
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "CerName": "About AI",
-        "CerSkills": "AL, ML, Deep Learning",
-        "CerDate": "29 - 10 - 2021",
-        "CerProvider": "MicroSoft"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
+      },
+      {
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "createAt": "Date",
-    "Settings": {
-      "getEmail": true,
-      "getPhone": true
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
     },
-    "Payment": [
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
       {
-        "Type": "Visa",
-        "numberCard": "0432943423432"
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
       }
-    ],
-    "Tasks": [
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
+    },
+    "Category": "Software Development",
+    "Sub_Cate": [
       {
-        "task_id": "3",
-        "client_id": "1",
-        "title": "Create database for BI"
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
+      },
+      {
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
       }
-    ],
-    "avatar": "path.............",
-    "Bio": "Tôi vui tính\nTôi đẹp chai\nTôi thích đám đông"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
+    },
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
+      {
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
+    },
+    "Category": "Software Development",
+    "Sub_Cate": [
+      {
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
+      },
+      {
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
+    },
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
+      {
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
+    },
+    "Category": "Software Development",
+    "Sub_Cate": [
+      {
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
+      },
+      {
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
+    },
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
+      {
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
+    },
+    "Category": "Software Development",
+    "Sub_Cate": [
+      {
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
+      },
+      {
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
+    },
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
+      {
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
+    },
+    "Category": "Software Development",
+    "Sub_Cate": [
+      {
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
+      },
+      {
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
+    },
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
+      {
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6187f2119637bb62024224d2"
+    },
+    "Category": "Software Development",
+    "Sub_Cate": [
+      {
+        "subCateName": "Web Development",
+        "Skills": [
+          "PHP",
+          "Nodejs",
+          "MySQL",
+          "MongoDB",
+          "ReactJs"
+        ]
+      },
+      {
+        "subCateName": "Game Development",
+        "Skills": [
+          "C#",
+          "Unity",
+          "Ruby"
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "619a5018064e542d70a10156"
+    },
+    "Category": "Sales & Marketing",
+    "Sub_Cate": [
+      {
+        "subCateName": "Content Creating",
+        "Skills": [
+          "Facebook",
+          "Blog",
+          "Tiktok"
+        ]
+      }
+    ]
   }
 ]
